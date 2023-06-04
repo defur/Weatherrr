@@ -5,7 +5,7 @@ Quick-Task-1 -      https://github.com/defur/Quick-Task
 Kotlin_practice_1 - https://github.com/Digi-Android/kotlin-task-1-defur  
 
 
-
+## Виконала Ткачова Тетяна АМ-202
 # Weatherrr
 ### Weatherrr - це простий і зручний додаток для прогнозу погоди. Цей додаток допомагає користувачам отримувати актуальну інформацію про погоду для будь-якої локації.
 
