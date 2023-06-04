@@ -24,7 +24,7 @@ Kotlin_practice_1 - https://github.com/Digi-Android/kotlin-task-1-defur
 
 # Технології:
 ### Додаток написано на 100% Kotlin
-<img src="https://github.com/defur/Weather/blob/main/1.jpg" width="700" height="350">
+<img src="https://github.com/defur/Weather/blob/main/1.jpg" width="600" height="400">
 
 # Огляд додатку:
 <img src="https://github.com/defur/Weather/blob/main/11.png" width="300" height="600"><img src="https://github.com/defur/Weather/blob/main/12.png" width="300" height="600">
