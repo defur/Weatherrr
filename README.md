@@ -30,5 +30,5 @@ Kotlin_practice_1 - https://github.com/Digi-Android/kotlin-task-1-defur
 <img src="https://github.com/defur/Weather/blob/main/11.png" width="300" height="600"><img src="https://github.com/defur/Weather/blob/main/12.png" width="300" height="600">
 
 
-### Weatherrr - це надійний, простий у використанні додаток, який надає користувачам зручний спосіб отримання прогнозу погоди. Він створений, щоб забезпечити користувачам актуальну інформацію про погоду там, де вони цього потребують.
+### Weatherrr - це надійний, простий у використанні додаток, який надає користувачам зручний спосіб отримання прогнозу погоди.
 
